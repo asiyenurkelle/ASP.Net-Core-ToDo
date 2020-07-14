@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\bin\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.deps.json
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\bin\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.dll
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\bin\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.pdb
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\obj\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\obj\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\obj\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.AssemblyInfo.cs
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\obj\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.dll
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\obj\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.pdb
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.Entities\obj\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.csproj.CoreCompileInputs.cache

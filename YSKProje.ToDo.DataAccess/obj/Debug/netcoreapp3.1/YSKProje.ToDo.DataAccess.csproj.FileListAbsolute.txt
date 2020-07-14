@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.deps.json
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.runtimeconfig.json
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.runtimeconfig.dev.json
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.dll
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.pdb
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.dll
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\YSKProje.ToDo.Entities.pdb
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.AssemblyInfo.cs
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.csproj.CopyComplete
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.dll
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.pdb
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.genruntimeconfig.cache
+C:\Users\asus\source\repos\ToDo\YSKProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\YSKProje.ToDo.DataAccess.csproj.CoreCompileInputs.cache
